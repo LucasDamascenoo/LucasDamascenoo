@@ -2,7 +2,7 @@
 
 ### Hello,word 👋
 
-<br/>My name is Lucas and ...:
+<br/>My name is Lucas and:
 
  <br/>📚 Technologist in Systems Analysis and Development.
  <br/>🌱 I’m currently learning Front-end developer and English 
