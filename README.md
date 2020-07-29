@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello,word 👋
 
-<!--
-**LucasDamascenoo/LucasDamascenoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Lucas and ...:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📚 Technologist in Systems Analysis and Development.
+ 🌱 I’m currently learning Front-end developer and English 
+ 🔭 I’m currently working with accounting
+ 🌍 Languages:Portuguese and English (beginner)
+ 💬 Ask me about: Accounting,foods,music and American football.
+ ⚡ Fun fact: I love American football (Go Pats), music and cooking.
+
+[![Linkedin badget](https://www.linkedin.com/in/lucas-damasceno-oliveira-629a027b/)]
