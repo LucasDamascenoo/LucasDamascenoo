@@ -6,8 +6,8 @@
 
 <br/>My name is Lucas and:
 
- <br/>📚 Technologist in Systems Analysis and Development.
- <br/>🌱 I’m currently learning Front-end developer and English 
+ <br/>📚 Technologist in Database .
+ <br/>🌱 I’m currently learning Data analysis developer and English 
  <br/>🔭 I’m currently working with accounting
  <br/>🌍 Languages:Portuguese and English (beginner)
  <br/>💬 Ask me about: Accounting,foods,music and American football.
