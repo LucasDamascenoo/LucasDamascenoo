@@ -27,9 +27,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## 
-
-[![card](https://github-readme-stats.vercel.app/api?username=LucasDamascenoo&theme=dracula&show_icons=true)](https://github.com/LucasDamascenoo/)[![LucasDamascenoo](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDamascenoo&hide=html&layout=compact&theme=dracula)](https://github.com/LucasDamascenoo/) 
 
 
 
