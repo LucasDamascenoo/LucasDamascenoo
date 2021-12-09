@@ -17,12 +17,6 @@
 </p>
 
 
-
-
-<!-- [![card](https://github-readme-stats.vercel.app/api?username=LucasDamascenoo&theme=dracula&show_icons=true)](https://github.com/LucasDamascenoo/)
-[![LucasDamascenoo](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDamascenoo&hide=html&layout=compact&theme=dracula)](https://github.com/LucasDamascenoo/) 
- -->
-
 ## ⚡ Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,8 +29,7 @@
 
 ## 
 
-[![card](https://github-readme-stats.vercel.app/api?username=LucasDamascenoo&theme=dracula&show_icons=true)](https://github.com/LucasDamascenoo/)
-[![LucasDamascenoo](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDamascenoo&hide=html&layout=compact&theme=dracula)](https://github.com/LucasDamascenoo/) 
+[![card](https://github-readme-stats.vercel.app/api?username=LucasDamascenoo&theme=dracula&show_icons=true)](https://github.com/LucasDamascenoo/)[![LucasDamascenoo](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDamascenoo&hide=html&layout=compact&theme=dracula)](https://github.com/LucasDamascenoo/) 
 
 
 
