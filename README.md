@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- :books: Estudando: <strong>Layouts responsivos, Acessibilidade web, Flex box e Grid.</strong>
+ :books: Estudando: <strong>Bulma e Vuejs.</strong>
 </p>
 
 <p align="left">
