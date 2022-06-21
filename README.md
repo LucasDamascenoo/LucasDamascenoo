@@ -28,5 +28,12 @@
 
 ## Badges
 
-<a href="http://www.github.com/LucasDamascenoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdamascenoo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<p align="center">
+  <a href="http://www.github.com/LucasDamascenoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdamascenoo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasdamascenoo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
