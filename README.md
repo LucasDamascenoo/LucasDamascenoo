@@ -29,8 +29,6 @@
 ## Badges
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LucasDamascenoo&theme=dark)](https://git.io/streak-stats)
-
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDamascenoo&layout=compact&theme=vue-dark&langs_count=4)
 
 
