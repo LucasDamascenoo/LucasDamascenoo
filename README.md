@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- :books: Estudando: <strong>Python para análise de dados e Salesforce.</strong>
+ :books: Estudando: <strong>Python para análise de dados(Pandas).</strong>
 </p>
 
 <p align="left">
