@@ -4,18 +4,6 @@
   🌎 Olá, meu nome é Lucas Damasceno. Sou <strong>Analista de dados</strong>.
 </p>
 
-<p align="left">
-  🦄 Habilidades: <strong>SQL, Python, Tableau, Pentaho.</strong>
-</p>
-
-<p align="left">
- :books: Estudando: <strong>Python para análise de dados(Pandas).</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Docker, Terraform, VSCode, Trello, Git e GitHub.</strong>
-</p>
-
 
 ## ⚡ Technologies
 
